@@ -1,6 +1,4 @@
-# XStory
-Next steps: 
+This Repo is for the Google-funded Future of Storytelling project. 
 
-Find out how to generate different event by parsing data from Max. Events include: increasing the rate of the change and terminate the interaction.
-Upgrade the whole system with Bluefruit EZ-link, and LED strip. 
+The code is for a digital performance piece using an installation, visual programming, and projection mapping. 
 
